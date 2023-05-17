@@ -46,7 +46,7 @@
   <td scope="col">
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Emacs-logo.svg" title="Emacs" alt="Emacs" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker"  alt="Docker" width="40" height="40"/>&nbsp;
-
+    <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="LaTeX"  alt="LaTeX" width="40" height="40"/>&nbsp;
   </td>
 </tr>
 </table>
