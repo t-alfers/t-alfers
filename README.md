@@ -9,7 +9,7 @@
 
 💡 As a Psychometrician, I specialize in designing, developing, and implementing tools for psychological assessment. In the realm of psychometrics, I have developed a strong expertise in Item Response Theory (IRT).
 
-💻 As a Web Developer, I bring the same analytical rigor to code. I'm experienced in a range of programming languages and technologies, with a special love for Julia. I enjoy building sleek, user-friendly websites and applications that are not only visually appealing but also backed by solid, efficient code.
+💻 As a Web Developer and Statistical Programmer, I bring the same analytical rigor to code. I'm experienced in a range of programming languages and technologies, with a special love for Julia. I enjoy building sleek, user-friendly websites and applications that are not only visually appealing but also backed by solid, efficient code.
 
 🔍 I'm always exploring the intersection between psychometrics and web development, and I love the challenge of integrating complex psychometric principles into web-based applications.
 
@@ -19,9 +19,25 @@
 
 📫 If you'd like to get in touch or discuss potential projects, please feel free to reach out via email at tobias@alfers.eu or connect with me on [LinkedIn](https://www.linkedin.com/in/tobias-alfers-4b033499").
 
-### Toolset
+### 🛠 &nbsp;Toolset
 
+#### Psychometrics/Statistics
+<p> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/julia/julia-original-wordmark.svg" title="Julia" alt="Julia" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
+<img src="https://mc-stan.org/rstan/reference/figures/stanlogo.png" title="Stan" alt="Stan" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/spss/spss-original.svg" title="SPSS" alt="SPSS" width="40" height="40"/>&nbsp;  
+</p>
 
+#### Web Development
+<p>
+<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJS"  alt="NextJS" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain-wordmark.svg" title="NestJS"  alt="NestJS" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="TailwindCSS"  alt="TailwindCSS" width="40" height="40"/>&nbsp;  
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL"  alt="PostgreSQL" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="PostgreSQL"  alt="PostgreSQL" width="40" height="40"/>&nbsp;
+</p>
 
 <!--
 **t-alfers/t-alfers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
