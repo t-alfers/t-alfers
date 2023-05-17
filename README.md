@@ -7,7 +7,7 @@
 
 ### Psychometrician & Web Developer
 
-💡 As a Psychometrician, I specialize in designing, developing, and implementing tools for psychological assessment. In the realm of psychometrics, I have developed a strong expertise in Item Response Theory (IRT).
+💡 As a Psychometrician, I specialize in designing, developing, and implementing tools for psychological assessment. I have developed a strong expertise in Item Response Theory (IRT).
 
 💻 As a Web Developer and Statistical Programmer, I bring the same analytical rigor to code. I'm experienced in a range of programming languages and technologies, with a special love for Julia. I enjoy building sleek, user-friendly websites and applications that are not only visually appealing but also backed by solid, efficient code.
 
