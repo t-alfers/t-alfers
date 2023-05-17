@@ -17,7 +17,9 @@
 🔗 Here, you'll find a portfolio of my projects, ranging from psychometric analysis tools to full-stack web development. I'm open to collaboration and always eager to learn from other developers.
 -->
 
-📫 If you'd like to get in touch or discuss potential projects, please feel free to reach out via email at tobias@alfers.eu or connect with me on [LinkedIn](https://www.linkedin.com/in/tobias-alfers-4b033499").
+📫 If you'd like to get in touch or discuss potential projects, please feel free to reach out via email at tobias@alfers.eu or connect with me on [LinkedIn](https://www.linkedin.com/in/tobias-alfers-4b033499/).
+
+
 
 ### 🛠 &nbsp;Toolset
 
