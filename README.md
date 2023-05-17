@@ -3,11 +3,9 @@
 <a href="https://www.linkedin.com/in/tobias-alfers-4b033499"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
 
-# Hello there 👋
+# Hello there 👋, I'm Tobias Alfers
 
 ### Psychometrician & Web Developer
-
-I'm Tobias Alfers, a passionate Psychometrician and Web Developer based in the beautiful city of Vienna, Austria. My career is a blend of psychology and technology, enabling me to bring unique insights to both fields.
 
 💡 As a Psychometrician, I specialize in designing, developing, and implementing tools for psychological assessment. In the realm of psychometrics, I have developed a strong expertise in Item Response Theory (IRT).
 
@@ -21,7 +19,9 @@ I'm Tobias Alfers, a passionate Psychometrician and Web Developer based in the b
 
 📫 If you'd like to get in touch or discuss potential projects, please feel free to reach out via email at tobias@alfers.eu or connect with me on [LinkedIn](https://www.linkedin.com/in/tobias-alfers-4b033499").
 
-Thank you for visiting my profile!
+### Toolset
+
+
 
 <!--
 **t-alfers/t-alfers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
