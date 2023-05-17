@@ -1,6 +1,7 @@
 <p align="center"><img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="300"/></p>
 <p align="center">
 <a href="https://www.linkedin.com/in/tobias-alfers-4b033499"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+<a href="https://www.researchgate.net/profile/Tobias-Alfers"><img src="https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white" alt="ResearchGate Badge"></a>
 </p>
 
 # Hello there 👋, I'm Tobias Alfers
