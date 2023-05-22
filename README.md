@@ -27,29 +27,31 @@
 <table>
 <tr>
   <td scope="col">Psychometrics/Statistics</td>
-  <td scope="col"><img src="https://github.com/devicons/devicon/blob/master/icons/julia/julia-original-wordmark.svg" title="Julia" alt="Julia" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
-    <img src="https://mc-stan.org/rstan/reference/figures/stanlogo.png" title="Stan" alt="Stan" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/spss/spss-original.svg" title="SPSS" alt="SPSS" width="40" height="40"/>&nbsp;  
+  <td scope="col">
+    <a href="https://www.julialang.org"><img src="https://github.com/devicons/devicon/blob/master/icons/julia/julia-original-wordmark.svg" title="Julia" alt="Julia" width="40" height="40"/></a>&nbsp;
+    <a href="https://www.r-project.org"><img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/></a>&nbsp;
+    <a href="https://mc-stan.org"><img src="https://mc-stan.org/rstan/reference/figures/stanlogo.png" title="Stan" alt="Stan" width="40" height="40"/></a>&nbsp;
+    <a href="https://www.ibm.com/spss"><img src="https://github.com/devicons/devicon/blob/master/icons/spss/spss-original.svg" title="SPSS" alt="SPSS" width="40" height="40"/></a>&nbsp;  
   </td>
 </tr>
 <tr>
   <td scope="col">Web Development</td>
-  <td scope="col"><img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJS"  alt="NextJS" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain-wordmark.svg" title="NestJS"  alt="NestJS" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/hugo/hugo-original.svg" title="Hugo"  alt="Hugo" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="TailwindCSS"  alt="TailwindCSS" width="40" height="40"/>&nbsp;  
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL"  alt="PostgreSQL" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="PostgreSQL"  alt="PostgreSQL" width="40" height="40"/>&nbsp;
+  <td scope="col">
+    <a href="https://nextjs.org"><img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJS"  alt="NextJS" width="40" height="40"/></a>&nbsp;
+    <a href="https://nestjs.com"><img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain-wordmark.svg" title="NestJS"  alt="NestJS" width="40" height="40"/></a>&nbsp;
+    <a href="https://gohugo.io"><img src="https://github.com/devicons/devicon/blob/master/icons/hugo/hugo-original.svg" title="Hugo"  alt="Hugo" width="40" height="40"/></a>&nbsp;
+    <a href="https://tailwindcss.com"><img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="TailwindCSS"  alt="TailwindCSS" width="40" height="40"/></a>&nbsp;  
+    <a href="https://www.postman.com"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/></a>&nbsp;
+    <a href="https://www.postgresql.org"><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL"  alt="PostgreSQL" width="40" height="40"/></a>&nbsp;
+    <a href="https://www.mongodb.com"><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB"  alt="MongoDB" width="40" height="40"/></a>&nbsp;
   </td>
 </tr>
 <tr>
   <td scope="col">General</td>
   <td scope="col">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Emacs-logo.svg" title="Emacs" alt="Emacs" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker"  alt="Docker" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="LaTeX"  alt="LaTeX" width="40" height="40"/>&nbsp;
+    <a href="https://www.gnu.org/software/emacs"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Emacs-logo.svg" title="Emacs" alt="Emacs" width="40" height="40"/></a>&nbsp;
+    <a href="https://www.docker.com"><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker"  alt="Docker" width="40" height="40"/></a>&nbsp;
+    <a href="https://www.latex-project.org"><img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="LaTeX"  alt="LaTeX" width="40" height="40"/></a>&nbsp;
   </td>
 </tr>
 </table>
