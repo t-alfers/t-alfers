@@ -6,7 +6,7 @@
 
 # Hello there 👋, I'm Tobias Alfers
 
-### Psychometrician & Web Developer
+### Psychometrician & Full Stack Developer
 
 💡 As a Psychometrician, I specialize in designing, developing, and implementing tools for psychological assessment. I have developed a strong expertise in Item Response Theory (IRT).
 
