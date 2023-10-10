@@ -4,7 +4,7 @@
 <a href="https://www.researchgate.net/profile/Tobias-Alfers"><img src="https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white" alt="ResearchGate Badge"></a>
 </p>
 
-# Hello there 👋, I'm Tobias Alfers
+# Hello there, I'm Tobias Alfers
 
 ### Psychometrician & Full Stack Developer
 
