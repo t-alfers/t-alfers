@@ -38,9 +38,9 @@
   <td scope="col">Web Development</td>
   <td scope="col">
     <a href="https://nextjs.org"><img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJS"  alt="NextJS" width="40" height="40"/></a>&nbsp;
-    <a href="https://nestjs.com"><img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain-wordmark.svg" title="NestJS"  alt="NestJS" width="40" height="40"/></a>&nbsp;
+    <a href="https://nestjs.com"><img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" title="NestJS"  alt="NestJS" width="40" height="40"/></a>&nbsp;
     <a href="https://gohugo.io"><img src="https://github.com/devicons/devicon/blob/master/icons/hugo/hugo-original.svg" title="Hugo"  alt="Hugo" width="40" height="40"/></a>&nbsp;
-    <a href="https://tailwindcss.com"><img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="TailwindCSS"  alt="TailwindCSS" width="40" height="40"/></a>&nbsp;  
+    <a href="https://tailwindcss.com"><img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="TailwindCSS"  alt="TailwindCSS" width="40" height="40"/></a>&nbsp;  
     <a href="https://www.postman.com"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/></a>&nbsp;
     <a href="https://www.postgresql.org"><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL"  alt="PostgreSQL" width="40" height="40"/></a>&nbsp;
     <a href="https://www.mongodb.com"><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB"  alt="MongoDB" width="40" height="40"/></a>&nbsp;
