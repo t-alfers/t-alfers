@@ -4,7 +4,7 @@
 <a href="https://www.researchgate.net/profile/Tobias-Alfers"><img src="https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white" alt="ResearchGate Badge"></a>
 </p>
 
-# Hello there, I'm Tobias Alfers
+# Hello there, I'm Tobias Schönfeld
 
 ### Psychometrician & Full Stack Developer
 
@@ -18,7 +18,7 @@
 🔗 Here, you'll find a portfolio of my projects, ranging from psychometric analysis tools to full-stack web development. I'm open to collaboration and always eager to learn from other developers.
 -->
 
-📫 If you'd like to get in touch or discuss potential projects, please feel free to reach out via email at tobias@alfers.eu or connect with me on [LinkedIn](https://www.linkedin.com/in/tobias-alfers-4b033499/).
+📫 If you'd like to get in touch or discuss potential projects, please feel free to reach out via email at tobias@beau-champ.eu or connect with me on [LinkedIn](https://www.linkedin.com/in/alfers).
 
 
 
